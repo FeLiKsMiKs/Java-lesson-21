@@ -1,0 +1,2 @@
+String schoolNumber --- This is the number of this school
+int directorName --- This is director name of this school
